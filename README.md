@@ -1,3 +1,1 @@
-# Docker - React + Express + Nginx Reverse Proxy
-
-## This is the Nginx Reverse Proxy
+https://medium.com/@frontendfoo/docker-react-express-reverse-proxy-15d7b37f8dc2
